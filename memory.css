@@ -1,0 +1,32 @@
+body 
+{
+	font-family: "Verdana" 
+	text-align: justify;
+	font-size: "5";
+} 
+h2
+{
+	color: teal;
+	text-align: center;
+}
+h1 
+{ 
+	color: blue;
+}
+h3
+{
+	color: red; 
+	font-family: Times new roman;
+	text-align: center;
+}
+h4, h5, h6, h7, h8, h9, h10, h11
+{
+	color: mediumseagreen;
+	font-family: Times new roman;
+}
+h12
+{
+	color: red
+	font-family: Times new roman;
+	text-align: center;
+}

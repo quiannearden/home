@@ -1,0 +1,27 @@
+body
+{
+	font-family: "Verdana" 
+	text-align: justify;
+}
+h1
+{
+	color: purple
+}
+h2, h3, h4
+{
+	color: darkblue;
+	
+}
+h5
+{
+	color: royalblue;
+	
+}
+h6, h10, h14
+{
+	color: darkgreen;
+}
+h7, h8, h9, h11, h12, h13, h15
+{
+	color: hotpink;
+} 
